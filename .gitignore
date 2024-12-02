@@ -1,0 +1,6 @@
+# settings folders
+.idea/
+
+# build folders
+build/
+out/
