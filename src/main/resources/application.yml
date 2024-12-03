@@ -1,0 +1,9 @@
+spring:
+    application:
+        name: cloud-config-server
+    cloud:
+        config:
+            server:
+                git:
+                    timeout: 5
+                    uri: https://github.com/haengbokhan/cloud-config-properties

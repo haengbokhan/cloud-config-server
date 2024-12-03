@@ -1,0 +1,7 @@
+plugins {
+    id 'eirene.build'
+}
+
+dependencies {
+    implementation "org.springframework.cloud:spring-cloud-config-server:${springCloudVersion}"
+}
