@@ -4,3 +4,8 @@
 # build folders
 build/
 out/
+
+# application profile files
+src/main/resources/application-*.properties
+src/main/resources/application-*.yml
+src/main/resources/application-*.yaml
