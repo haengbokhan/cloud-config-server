@@ -16,29 +16,9 @@
 
 사용하고자 하는 프로필(profile) 이름을 지정하여 Spring 설정 파일을 생성합니다(택 1).
 
-<ul style="padding-inline-start: 0; list-style-type: none;">
-    <li>
-        <span>1. </span>
-        <code>
-            <img alt="spring icon dark theme" src=".github/IMAGE/spring-icon-dark.svg" style="vertical-align: sub;" />
-            <span>application-{profile}.properties</span>
-        </code>
-    </li>
-    <li>
-        <span>2. </span>
-        <code>
-            <img alt="spring icon dark theme" src=".github/IMAGE/spring-icon-dark.svg" style="vertical-align: sub;" />
-            <span>application-{profile}.yml</span>
-        </code>
-    </li>
-    <li>
-        <span>3. </span>
-        <code>
-            <img alt="spring icon dark theme" src=".github/IMAGE/spring-icon-dark.svg" style="vertical-align: sub;" />
-            <span>application-{profile}.yaml</span>
-        </code>
-    </li>
-</ul>
+- <code>![spring-icon-drak-theme](.github/IMAGE/spring-icon-dark.svg) application-{profile}.properties</code>
+- <code>![spring-icon-drak-theme](.github/IMAGE/spring-icon-dark.svg) application-{profile}.yml</code>
+- <code>![spring-icon-drak-theme](.github/IMAGE/spring-icon-dark.svg) application-{profile}.yaml</code>
 
 `Git`, `JDBC`, `AWS`, `Vault` 등의 저장소 서비스와 연동합니다.
 
